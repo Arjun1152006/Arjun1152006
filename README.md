@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Arjun Peddi 👋
 
-<!--
-**Arjun1152006/Arjun1152006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AIML Student
+🏆 1st Prize - AVISHKAR 2026 Hackathon
+💻 Java | Python | DSA
+🚀 Aspiring Software Engineer
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- Python
+- SQL
+- DSA
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- GestureX
+- AI Face Recognition System
+- Blood Donation App
+- Smart Task Scheduler
+
+## Connect With Me
+LinkedIn: https://www.linkedin.com/in/arjun-peddi-6b75a12aa/
+Email: arjunp1152@gmail.com
