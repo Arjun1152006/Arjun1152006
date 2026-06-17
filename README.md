@@ -106,7 +106,7 @@ AI-powered multilingual voice translation system.
 
 ## 🤝 Connect With Me
 
-📧 Email: your-email@gmail.com
+📧 Email: arjunp1152@gmail.com
 
 💼 LinkedIn:
 www.linkedin.com/in/arjun-peddi-6b75a12aa
@@ -116,4 +116,4 @@ github.com/Arjun1152006
 
 ---
 
-⭐ "Consistency beats intensity. One commit every day is better than 100 commits once a month."
+⭐ "Consistency beats intensity"
