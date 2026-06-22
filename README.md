@@ -100,7 +100,7 @@ AI-powered multilingual voice translation system.
 - Contribute to Open Source
 - Build Real-World Projects
 - Secure a Software Development Role
-- Pursue MS in Germany
+
 
 ---
 
